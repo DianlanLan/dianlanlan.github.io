@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Hello world."
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-05-07 12:00:00
+author:     "Dianlan"
+header-img: "img/bg-index.jpg"
+catalog: true
+header-mask: 0.5
+tags:
+    - 生活
+---
+
+惊了。这里居然什么都没有！
