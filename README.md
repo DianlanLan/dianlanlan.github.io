@@ -1,4 +1,4 @@
-#dianlan的博客
+# dianlan的博客
 
-#[原作者的博客]](https://huangxuan.me)
+# [原作者的博客](https://huangxuan.me)
 
