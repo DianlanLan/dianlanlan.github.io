@@ -1,7 +1,9 @@
 # 关于我
 
-ZF He, a.k.a Dianlan or Bluecable.目前在读高三生。
+ZF He, a.k.a Dianlan or Bluecable.中南大学电子信息类大一狗。
 
 爱编程，也爱语言学。向着成为一个游戏开发者奋斗着。
 
-不过也得等高考完了再说。。。
+同时自修绘画与编曲
+
+属和平鸽

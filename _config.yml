@@ -51,7 +51,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "快要高考的高中生|立志做人工智能|虽然还没起步"
+sidebar-about-description: "中南大学大一狗|立志做人工智能|虽然还没起步"
 sidebar-avatar: /img/avatar-dll.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
